@@ -59,7 +59,7 @@ The following steps were followed to scrape and analyze Mars weather data:
         -   Visually estimate the result by plotting the daily minimum temperature.
         
             ![image](https://user-images.githubusercontent.com/111614210/213949033-ce09b0ce-e103-4e63-a3dd-cee5ad64fbb0.png)
-            ![image](https://user-images.githubusercontent.com/111614210/213949074-54429b9d-6817-4780-b5bd-2cf345442f4f.png)
+            ![image](https://user-images.githubusercontent.com/111614210/213949399-00037817-0af6-4353-a33d-1b0c716d3b78.png)
 
 6)  Export the DataFrame to a CSV file.
 
